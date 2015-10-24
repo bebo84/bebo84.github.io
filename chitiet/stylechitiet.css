@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	max-width:700px;
+	text-align:center;	
+}
+
+img {
+	max-height:500px;
+	max-width:500px;	
+}
+
+.mota {
+	text-decoration:underline;	
+}
+
+.tensp {
+	background-color: #D0CCCC;	
+}
+
+a:link {
+	text-decoration:none;	
+	
+}
