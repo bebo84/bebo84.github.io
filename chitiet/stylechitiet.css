@@ -23,3 +23,11 @@ a:link {
 	text-decoration:none;	
 	
 }
+
+.giaban::before {
+	content:"Đơn giá: ";
+}
+
+.giaban::after {
+	content:" VNĐ";	
+}
